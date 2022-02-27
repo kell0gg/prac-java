@@ -9,6 +9,6 @@
 ```
 
 ```mermiad
-   graph TD:
-       KIMJM-->BABO;
+   graph TD;
+      kjm-->babo;
 ```
