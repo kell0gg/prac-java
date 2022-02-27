@@ -8,7 +8,7 @@
       C-->D;
 ```
 
-```mermiad
+```mermaid
    graph TD;
       kjm-->babo;
 ```
